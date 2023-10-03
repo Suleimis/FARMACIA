@@ -275,74 +275,74 @@ public class Menu extends javax.swing.JFrame {
 
     private void Menu_Item_LaboratorioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Menu_Item_LaboratorioActionPerformed
         // TODO add your handling code here:
-//        Marca_IU frame = new Marca_IU();
-//        escritorio.add(frame);
-//        Dimension desktopSize = escritorio.getSize();
-//        Dimension FrameSize = frame.getSize();
-//        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
-//
-//        frame.show();
+        Marca_IU frame = new Marca_IU();
+        escritorio.add(frame);
+        Dimension desktopSize = escritorio.getSize();
+        Dimension FrameSize = frame.getSize();
+        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
+
+        frame.show();
 
     }//GEN-LAST:event_Menu_Item_LaboratorioActionPerformed
 
     private void menu_item_categoriaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menu_item_categoriaActionPerformed
         // TODO add your handling code here:
-//        Categoria_IU frame = new Categoria_IU();
-//        escritorio.add(frame);
-//        Dimension desktopSize = escritorio.getSize();
-//        Dimension FrameSize = frame.getSize();
-//        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
-//
-//        frame.show();
+        Categoria_IU frame = new Categoria_IU();
+        escritorio.add(frame);
+        Dimension desktopSize = escritorio.getSize();
+        Dimension FrameSize = frame.getSize();
+        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
+
+        frame.show();
 
 
     }//GEN-LAST:event_menu_item_categoriaActionPerformed
 
     private void menu_item_medidaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menu_item_medidaActionPerformed
         // TODO add your handling code here:
-//        Medida_IU frame = new Medida_IU();
-//        escritorio.add(frame);
-//        Dimension desktopSize = escritorio.getSize();
-//        Dimension FrameSize = frame.getSize();
-//        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
-//
-//        frame.show();
+        Medida_IU frame = new Medida_IU();
+        escritorio.add(frame);
+        Dimension desktopSize = escritorio.getSize();
+        Dimension FrameSize = frame.getSize();
+        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
+
+        frame.show();
 
 
     }//GEN-LAST:event_menu_item_medidaActionPerformed
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
         // TODO add your handling code here:
-//        Producto_IU frame = new Producto_IU();
-//        escritorio.add(frame);
-//        Dimension desktopSize = escritorio.getSize();
-//        Dimension FrameSize = frame.getSize();
-//        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
-//
-//        frame.show();
+        Producto_IU frame = new Producto_IU();
+        escritorio.add(frame);
+        Dimension desktopSize = escritorio.getSize();
+        Dimension FrameSize = frame.getSize();
+        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
+
+        frame.show();
 
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
         // TODO add your handling code here:
-//        Compocicion_IU frame = new Compocicion_IU();
-//        escritorio.add(frame);
-//        Dimension desktopSize = escritorio.getSize();
-//        Dimension FrameSize = frame.getSize();
-//        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
-//
-//        frame.show();
+        Compocicion_IU frame = new Compocicion_IU();
+        escritorio.add(frame);
+        Dimension desktopSize = escritorio.getSize();
+        Dimension FrameSize = frame.getSize();
+        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
+
+        frame.show();
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     private void btnProductosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnProductosActionPerformed
         // TODO add your handling code here:
-//        Producto_IU frame = new Producto_IU();
-//        escritorio.add(frame);
-//        Dimension desktopSize = escritorio.getSize();
-//        Dimension FrameSize = frame.getSize();
-//        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
-//
-//        frame.show();
+        Producto_IU frame = new Producto_IU();
+        escritorio.add(frame);
+        Dimension desktopSize = escritorio.getSize();
+        Dimension FrameSize = frame.getSize();
+        frame.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
+
+        frame.show();
     }//GEN-LAST:event_btnProductosActionPerformed
 
     /**
